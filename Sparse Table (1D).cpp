@@ -1,3 +1,8 @@
+//Bismillahir Rahmanir Rahim
+/*
+	Abdullah Abu Tasneem
+	Dept of CSTE, NSTU
+*/
 #include<bits/stdc++.h>
 using namespace std;
 #define N 10000
